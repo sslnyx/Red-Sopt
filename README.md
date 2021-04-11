@@ -1,4 +1,4 @@
-# redspotfront
+# Red Sopt Interior Design Ltd. Portfolio
 
 ## Project setup
 ```

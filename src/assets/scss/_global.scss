@@ -1,0 +1,38 @@
+body {
+    main {
+        // font-family: sans-serif;
+        font-family: "Montserrat", "NotoSansTC", "Noto Sans TC", sans-serif;
+
+        // font-family: 'Noto Sans TC', sans-serif;
+        // font-weight: 100;
+        // font-style: thin;
+        h2,
+        h1 {
+            font-weight: bold;
+        }
+
+        h3 {
+            font-weight: 300;
+        }
+    }
+}
+
+[lang="zh"] {
+    body {
+        .home {
+            font-weight: 100;
+        }
+    }
+}
+
+.content {
+    overflow: hidden;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+    transition: opacity 0.5s;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+    opacity: 0;
+}

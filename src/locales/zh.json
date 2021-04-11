@@ -1,0 +1,10 @@
+{
+    "main": {
+        "welcome": "你好 from {company}",
+        "message": "沒有信件 | {count} 信件"
+    },
+    "about": {
+        "message": "關於我們"
+    },
+    "post": {}
+}

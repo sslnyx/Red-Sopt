@@ -1,0 +1,11 @@
+{
+  "menu": {},
+  "main": {
+    "welcome": "hello from {company}",
+    "message": "no message | one message | {count} messages"
+  },
+  "about": {
+    "message": "about message"
+  },
+  "post": {}
+}
